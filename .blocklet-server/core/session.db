@@ -1,0 +1,2 @@
+{"$$indexCreated":{"fieldName":"createdAt"}}
+{"$$indexCreated":{"fieldName":"expireDate","expireAfterSeconds":0}}
